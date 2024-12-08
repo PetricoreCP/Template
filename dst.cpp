@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Disjoint Sparse Table
+//Associative functions
+//Range Queries [L, R)
 template<typename T, typename F>
 struct DST {
 	int n;
